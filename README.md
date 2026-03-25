@@ -187,12 +187,4 @@ The .zip files used in this project are made by various creators and devs, and c
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).ns.org/licenses/by-nc/4.0/). The project’s source code is licensed under the **MIT License**.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).ed under the [MIT License](LICENSE).ns.org/licenses/by-nc/4.0/). The project’s source code is licensed under the **MIT License**.
-
-## License
-
 This project is licensed under the [MIT License](LICENSE).

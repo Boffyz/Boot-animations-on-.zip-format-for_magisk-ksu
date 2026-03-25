@@ -94,7 +94,7 @@ Most phones devices manufactured after 2012 are supported.
 
 Confirmed working on:
 
-* **Galaxy A series:** A13, A5 (2017)
+* **Galaxy A series:** A13 exynos, A5 (2017)
 
 To confirm support for your specific device, check if the following files exist in either `/system/media/` or `/vendor/media/`:
 

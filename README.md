@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>Boot Animations for custom roms</h1>
 </div>
 

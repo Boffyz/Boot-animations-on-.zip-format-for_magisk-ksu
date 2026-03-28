@@ -4,7 +4,7 @@
 
 
 <div align="center">
-Implements custom boot animations in `.zip` format on devices with Magisk/KernelSU as its root solution/method.
+Implements custom boot animations in `.zip` format on devices with Magisk/KernelSU (superSU) as its root solution/method.
 
 These .zip files replace the default boot animation with themed ones, offering a personalized startup experience :3
 </div>

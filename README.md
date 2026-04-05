@@ -4,7 +4,7 @@
 
 
 <div align="center">
-Implements custom boot animations in `.zip` format on devices with Magisk/KernelSU (superSU) as its root solution/method.
+Implements custom boot animations in `.zip` format on devices with Magisk/KernelSU (SuperSU) as its root solution/method.
 
 These .zip files replace the default boot animation with themed ones, offering a personalized startup experience :3
 </div>
@@ -29,7 +29,7 @@ ________________________________________________________________
 | **CandyROM** | <img src="previews/CandyROM.gif" alt="CandyROM" width="160"> | [miui-white-android-on-blue-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/miui-white-android-on-blue-bootfx-3.0.3-magisk.zip) |  |
 | **Evolution X** | <img src="previews/EvolutionX.gif" alt="EvolutionX" width="160"> | [green-android-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/green-android-bootfx-3.0.3-magisk.zip) |  |
 | **Havoc OS** | <img src="previews/HavocOS.gif" alt="HavocOS" width="160"> | [simple-android-black-on-red-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/simple-android-black-on-red-bootfx-3.0.3-magisk.zip) |  |
-| **Dot OS** | <img src="previews/kitkat-bootfx.gif" alt="KitKat Classic" width="160"> | [kitkat-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/kitkat-bootfx-3.0.3-magisk.zip) |  |
+| **Dot OS** | <img src="previews/DotOS.gif" alt="DotOS" width="160"> | [kitkat-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/kitkat-bootfx-3.0.3-magisk.zip) |  |
 | **Stock Google (pixel?)** | <img src="previews/aokp-bootfx.gif" alt="AOKP" width="160"> | [aokp-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/aokp-bootfx-3.0.3-magisk.zip) |  |
 | **ctOS (watchdogs)** | <img src="previews/ctOS.gif" alt="ctOS" width="160"> | [aokp-magical-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/aokp-magical-bootfx-3.0.3-magisk.zip) |  |
 | **BreezeUI** | <img src="previews/BreezeUI.gif" alt="BreezeUI" width="160"> | [white-on-black-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/white-on-black-bootfx-3.0.3-magisk.zip) |  |

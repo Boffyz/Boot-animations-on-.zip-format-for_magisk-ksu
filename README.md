@@ -1,16 +1,16 @@
-<div align="left">
+<div align="center">
   <h1>Boot Animations for custom roms</h1>
 </div>
 
 
-<div align="center">
+<div align="left">
 Implements custom boot animations in `.zip` format on devices with Magisk/KernelSU (SuperSU) as its root solution/method.
 
 These .zip files replace the default boot animation with themed ones, offering a personalized startup experience :3
 </div>
 
 <div align="center">
-  <h3>All themes are provided as .zip files. so just replace them?</h3>
+  <h3>All themes are provided as magisk/ksu flashable .zip files. so just install them as a module</h3>
 
 [![Magisk 420+](https://img.shields.io/badge/Magisk-420+-000000?style=flat&logo=magisk&logoColor=lightgreen)](https://github.com/topjohnwu/Magisk)
 [![Android 4-16](https://img.shields.io/badge/Android-4<16-000000?style=flat&logo=android&logoColor=white)](https://www.android.com/)
@@ -63,18 +63,21 @@ ________________________________________________________________
 1. This project targets the **boot animation** that plays after the bootlogo, during the Android system startup.
 2. They are not for samsung phones with stock (rooted) oneui as their os
 
+> [!TIP]
+> if you're looking for samsung .qmg bootanimations, go to https://github.com/John0n1/SMbootFX
+
 ## How It Works
 
-the rom you're on reads the bootanimation.zip file, which shows it based on its resolution and frames it was compressed with 
+the rom your on reads the bootanimation.zip file, which shows it based on its resolution and frames it was compressed with
+
 
 ## Installation Guide
 
 1. **Download** your chosen boot animation
-2. **Open** a file explorer with root rights.
-3. replace it with your new bootanimation.
-4. give it its permissions (aka 644)
-5. **Reboot** your device.
-6. **Enjoy** the new boot animation :3
+2. **Open** magisk (ksu).
+3. install it as a module (duh).
+4. **Reboot** your device.
+5. **Enjoy** the new boot animation :3
 
 > [!TIP]
 > some bootanimations may not show (and would make your phone get stuck on the bootlogo till booting your phone without a bootanimation), so if they don't, choose another one or convert it to your phone's resolution
@@ -84,11 +87,11 @@ the rom you're on reads the bootanimation.zip file, which shows it based on its 
 - these files are only for custom roms.
 - if you're having issues with sending them to your phone that has a custom rom, try https://github.com/agreenbhm/magic_overlayfs.
 - Use at your own risk—always back up your device before modifying system files.
-- inspired by https://github.com/John0n1/SMbootFX
+- this repository is inspired by https://github.com/John0n1/SMbootFX
 
 ## Supported Devices
 
-Most phones devices manufactured after 2012 are supported.
+Most android powered devices manufactured after (before?) 2012 are supported.
 
 Confirmed working on:
 
@@ -100,10 +103,6 @@ To confirm support for your specific device, check if the following files exist 
 
 If that file is present, your device should be compatible.
 
-## Contributions and Requests
-
-Feel free to open an issue for bug reports, feature requests, or new theme suggestions.  
-Pull requests are welcome for new themes or improvements!
 
 ## Credits
 
@@ -113,18 +112,10 @@ The .zip files used in this project are made by various creators and devs, and c
 
 the rom you're on reads the bootanimation.zip file, which shows it based on its resolution and frames it was compressed with 
 
-## Installation Guide
-
-1. **Download** your chosen boot animation module from the table above.
-2. **Open** a file explorer with root rights.
-3. replace it with your new bootanimation.
-4. give it its permissions (aka 644)
-5. **Reboot** your device.
-6. **Enjoy** the new boot animation :3
 
 ## Important Notes
 
-- these files are only for custom roms.
+- these files are only for custom roms (or non Samsung oneui/touchwiz/experience based roms).
 - if you're having issues with sending them to your phone that has a custom rom, try https://github.com/agreenbhm/magic_overlayfs.
 - Use at your own risk—always back up your device before modifying system files.
 - inspired by https://github.com/John0n1/SMbootFX

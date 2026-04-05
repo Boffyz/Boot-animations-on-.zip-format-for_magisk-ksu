@@ -82,12 +82,6 @@ the rom your on reads the bootanimation.zip file, which shows it based on its re
 > [!TIP]
 > some bootanimations may not show (and would make your phone get stuck on the bootlogo till booting your phone without a bootanimation), so if they don't, choose another one or convert it to your phone's resolution
 
-## Important Notes
-
-- these files are only for custom roms.
-- if you're having issues with sending them to your phone that has a custom rom, try https://github.com/agreenbhm/magic_overlayfs.
-- Use at your own risk—always back up your device before modifying system files.
-- this repository is inspired by https://github.com/John0n1/SMbootFX
 
 ## Supported Devices
 

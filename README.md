@@ -43,18 +43,6 @@ ________________________________________________________________
 | **ArrowOS** | <img src="previews/ArrowOS.gif" alt="ArrowOS" width="160"> | [cyanogen7-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/cyanogen7-bootfx-3.0.3-magisk.zip) |  |
 | **MistOS** | <img src="previews/MistOS.gif" alt="MistOS" width="160"> | [oneplus-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/oneplus-bootfx-3.0.3-magisk.zip) |  |
 | **Project Elixir** | <img src="previews/Project_Elixir.gif" alt="Project_Elixir" width="160"> | [pixel-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/pixel-bootfx-3.0.3-magisk.zip) |  |
-| **Windows** | <img src="previews/windows-bootfx.gif" alt="Windows" width="160"> | [windows-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/windows-bootfx-3.0.3-magisk.zip) |  |
-| **Error** | <img src="previews/error-bootfx.gif" alt="Error" width="160"> | [error-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/error-bootfx-3.0.3-magisk.zip) |  |
-| **Valorant** | <img src="previews/valorant-bootfx.gif" alt="Valorant" width="160"> | [valorant-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/valorant-bootfx-3.0.3-magisk.zip) |  |
-| **EA Game's** | <img src="previews/ea-bootfx.gif" alt="EA Games" width="160"> | [ea-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/ea-bootfx-3.0.3-magisk.zip) |  |
-| **Xbox One** | <img src="previews/xbox-bootfx.gif" alt="Xbox One" width="160"> | [xbox-one-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/xbox-one-bootfx-3.0.3-magisk.zip) |  |
-| **S.H.I.E.L.D.** | <img src="previews/shield-bootfx.gif" alt="S.H.I.E.L.D." width="160"> | [shield-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/shield-bootfx-3.0.3-magisk.zip) |  |
-| **Simpsons** | <img src="previews/simpsons-bootfx.gif" alt="Simpsons" width="160"> | [simpsons-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/simpsons-bootfx-3.0.3-magisk.zip) |  |
-| **Linux/Android** | <img src="previews/linux-bootfx.gif" alt="Linux/Android" width="160"> | [linux-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/linux-bootfx-3.0.3-magisk.zip) |  |
-| **Marvel DC Clash** | <img src="previews/marvel-dc-bootfx.gif" alt="Marvel DC Clash" width="160"> | [marvel-dc-clash-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/marvel-dc-clash-bootfx-3.0.3-magisk.zip) |  |
-| **Marvel Thor Dark World (Revision)** | <img src="previews/marvel-thor-bootfx.gif" alt="Marvel Thor Dark World" width="160"> | [marvel-thor-dark-world-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/marvel-thor-dark-world-bootfx-3.0.3-magisk.zip) |  |
-| **Star Trek Twist (Revision)** | <img src="previews/star-trek-twist-bootfx.gif" alt="Star Trek Twist" width="160"> | [star-trek-twist-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/star-trek-twist-bootfx-3.0.3-magisk.zip) | 
-| **Dedsec Boot** | <img src="previews/dedsec-bootfx.gif" alt="Dedsec" width="160"> | [dedsec-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/dedsec-bootfx-3.0.3-magisk.zip) |  |
 | *More coming soon!* |  |  |  |
 </div>
 

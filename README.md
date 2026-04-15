@@ -13,7 +13,7 @@ These .zip files replace the default boot animation with themed ones, offering a
   <h3>All themes are provided as magisk/ksu flashable .zip files. so just install them as a module</h3>
 
 [![Magisk 420+](https://img.shields.io/badge/Magisk-420+-000000?style=flat&logo=magisk&logoColor=lightgreen)](https://github.com/topjohnwu/Magisk)
-[![Android 4-16](https://img.shields.io/badge/Android-4%E2%86%9216-000000?style=flat&logo=android&logoColor=white)](https://www.android.com/)
+[![Android 1-16](https://img.shields.io/badge/Android-1%E2%86%9216-000000?style=flat&logo=android&logoColor=white)](https://www.android.com/)
 
 ________________________________________________________________
 

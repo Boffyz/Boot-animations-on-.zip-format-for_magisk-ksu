@@ -141,4 +141,4 @@ The .zip files used in this project are made by various creators and devs, and c
 
 ## License
 
-This project is licensed under the [Apatche licence](LICENSE).
+This project is licensed under the [Apache-2.0 license](LICENSE).

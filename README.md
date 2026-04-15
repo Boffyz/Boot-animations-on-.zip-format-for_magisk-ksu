@@ -48,8 +48,6 @@ ________________________________________________________________
 | **ctOS** | <img src="previews/ctOS.gif" alt="ctOS" width="160"> | [nethunter-glitch-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/nethunter-glitch-bootfx-3.0.3-magisk.zip) |  |
 | **New LineageOS** | <img src="previews/newLineageOS.gif" alt="newLineageOS" width="160"> | [nethunter-burning-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/nethunter-burning-bootfx-3.0.3-magisk.zip) |  |
 | **Old LineageOS** | <img src="previews/oldLineageOS.gif" alt="oldLineageOS" width="160"> | [cyanogen7-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/cyanogen7-bootfx-3.0.3-magisk.zip) |  |
-| **MistOS** | <img src="previews/MistOS.gif" alt="MistOS" width="160"> | [oneplus-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/oneplus-bootfx-3.0.3-magisk.zip) |  |
-| **Project Elixir** | <img src="previews/Project_Elixir.gif" alt="Project_Elixir" width="160"> | [pixel-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/pixel-bootfx-3.0.3-magisk.zip) |  |
 | *More coming soon!* |  |  |  |
 </div>
 

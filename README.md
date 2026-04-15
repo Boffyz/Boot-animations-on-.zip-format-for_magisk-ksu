@@ -19,6 +19,7 @@ ________________________________________________________________
 
 | Theme | Preview | Download |
 |-------|---------|----------|
+| **AOKP Black & White** | <img src="previews/AOKPb&wGear.gif" alt="AOKPb&wgear" width="160"> | [android-bootfx-3.0.3-magisk.zip](https://github.com/Boffyssb2/Boot-animations-for-samsung-phones-on-a-qmg-format/releases/download/bootanimation/video2.gif) |  |
 | **AOKP gear** | <img src="previews/AOKPgear.gif" alt="AOKPgear" width="160"> | [android-bootfx-3.0.3-magisk.zip](https://github.com/Boffyssb2/Boot-animations-for-samsung-phones-on-a-qmg-format/releases/download/bootanimation/video2.gif) |  |
 | **AOSPA** | <img src="previews/AOSPA.gif" alt="AOSPA" width="160"> | [android-red-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/android-red-bootfx-3.0.3-magisk.zip) |  |
 | **AndroidTV** | <img src="previews/AndroidTV.gif" alt="AndroidTV" width="160"> | [android-green-on-black-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/android-green-on-black-bootfx-3.0.3-magisk.zip) |  |

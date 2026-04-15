@@ -95,6 +95,8 @@ The .zip files used in this project are made by various creators and devs, and c
 
 the rom you're on reads the bootanimation.zip file, which shows it based on its resolution and frames it was compressed with 
 
+> [!TIP]
+> if you're using SuperSU (or a non-module based root solution), just extract the module, take the bootanimation.zip and replace it to the directory thats responsible on keeping your bootanimation file
 
 ## Important Notes
 
@@ -135,8 +137,8 @@ The .zip files used in this project are made by various creators and devs, and c
 - This project is **not** affiliated with, sponsored, or endorsed by Samsung Electronics Co., Ltd., or any other mentioned or themed brands. All trademarks are the property of their respective owners.
 - The `.zip` files are only distributed inside as replaceable files in the **Releases** section due to GitHub file size limitations.
 - Be cautious when downloading forked versions—especially faulty `.zip` files—from unknown sources, as they may not boot at all.
-- All .zip's created by **Boffy** are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). The project’s source code is licensed under the **MIT License**.
+
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apatche licence](LICENSE).

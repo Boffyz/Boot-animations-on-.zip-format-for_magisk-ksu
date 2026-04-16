@@ -76,21 +76,6 @@ the rom your on reads the bootanimation.zip file, which shows it based on its re
 > some bootanimations may not show (and would make your phone get stuck on the bootlogo till booting your phone without a bootanimation), so if they don't, choose another one or convert it to your phone's resolution
 
 
-## Supported Devices
-
-Most android powered devices manufactured after (before?) 2012 are supported.
-
-Confirmed working on:
-
-* **Galaxy A series:** A13 exynos, A5 (2017)
-
-To confirm support for your specific device, check if the following files exist in either `/system/media/` or `/vendor/media/`:
-
-* `bootanimation.zip`
-
-If that file is present, your device should be compatible.
-
-
 ## Credits
 
 The .zip files used in this project are made by various creators and devs, and credits goes to their respective owner

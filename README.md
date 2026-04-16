@@ -121,7 +121,7 @@ Confirmed working on:
 
 * **Galaxy A series:** A13, A5 (2017)
 
-To confirm support for your specific device, check if the following files exist in either `/system/media/` or `/vendor/media/`:
+To confirm support for your specific device, check if the following files exist in `/system/product/media/`:
 
 * `bootanimation.zip`
 

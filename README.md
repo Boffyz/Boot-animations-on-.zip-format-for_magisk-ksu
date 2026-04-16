@@ -100,7 +100,7 @@ the rom you're on reads the bootanimation.zip file, which shows it based on its 
 
 ## Supported Devices
 
-Most phones devices manufactured after 2012 are supported.
+Most phones devices manufactured after (before?) 2012 are supported.
 
 Confirmed working on:
 

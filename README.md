@@ -40,13 +40,13 @@ ________________________________________________________________
 | **IodèOS** | <img src="previews/IodèOS.gif" alt="IodèOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/IodeOS.zip) |  |
 | **Lights** | <img src="previews/Lights.gif" alt="Lights" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Lights.zip) |  |
 | **MistOS** | <img src="previews/MistOS.gif" alt="MistOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/MistOS.zip) |  |
-| **Project Elixir** | <img src="previews/Project_Elixir.gif" alt="Project_Elixir" width="160"> | [blue-lines-a-bootfx-3.0.3-magisk.zip](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Project.Elixir.zip) |  |
-| **Reimu** | <img src="previews/Reimu.gif" alt="Reimu" width="160"> | [ctos-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/ctos-bootfx-3.0.3-magisk.zip) |  |
-| **Sci-Fidroid** | <img src="previews/Sci-Fidroid.gif" alt="Sci-Fidroid" width="160"> | [ctos-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/ctos-bootfx-3.0.3-magisk.zip) |  |
-| **The Clover Project** | <img src="previews/The Clover Project.gif" alt="TheCloverProject" width="160"> | [nethunter-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/nethunter-bootfx-3.0.3-magisk.zip) |  |
-| **ctOS** | <img src="previews/ctOS.gif" alt="ctOS" width="160"> | [nethunter-glitch-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/nethunter-glitch-bootfx-3.0.3-magisk.zip) |  |
-| **New LineageOS** | <img src="previews/newLineageOS.gif" alt="newLineageOS" width="160"> | [nethunter-burning-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/nethunter-burning-bootfx-3.0.3-magisk.zip) |  |
-| **Old LineageOS** | <img src="previews/oldLineageOS.gif" alt="oldLineageOS" width="160"> | [cyanogen7-bootfx-3.0.3-magisk.zip](https://github.com/John0n1/SMbootFX/releases/download/3.0.3/cyanogen7-bootfx-3.0.3-magisk.zip) |  |
+| **Project Elixir** | <img src="previews/Project_Elixir.gif" alt="Project_Elixir" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Project.Elixir.zip) |  |
+| **Reimu** | <img src="previews/Reimu.gif" alt="Reimu" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Reimu.zip) |  |
+| **Sci-Fidroid** | <img src="previews/Sci-Fidroid.gif" alt="Sci-Fidroid" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Sci-Fidroid.zip) |  |
+| **The Clover Project** | <img src="previews/The Clover Project.gif" alt="TheCloverProject" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/The.Clover.Project.zip) |  |
+| **ctOS** | <img src="previews/ctOS.gif" alt="ctOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/ctOS.zip) |  |
+| **New LineageOS** | <img src="previews/newLineageOS.gif" alt="newLineageOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/New.LineageOS.zip) |  |
+| **Old LineageOS** | <img src="previews/oldLineageOS.gif" alt="oldLineageOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Old.LineageOS.zip) |  |
 | *More coming soon!* |  |  |  |
 </div>
 

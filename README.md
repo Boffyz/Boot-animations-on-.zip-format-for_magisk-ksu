@@ -1,4 +1,4 @@
-<div align="center">
+Oldign="center">
   <h1>Boot Animations for custom roms</h1>
 </div>
 
@@ -46,7 +46,7 @@ ________________________________________________________________
 | **The Clover Project** | <img src="previews/The Clover Project.gif" alt="TheCloverProject" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/The.Clover.Project.zip) |  |
 | **ctOS** | <img src="previews/ctOS.gif" alt="ctOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/ctOS.zip) |  |
 | **New LineageOS** | <img src="previews/newLineageOS.gif" alt="newLineageOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/New.LineageOS.zip) |  |
-| **Old LineageOS** | <img src="previews/oldLineageOS.gif" alt="oldLineageOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Old.LineageOS.zip) |  |
+| **Old (original) LineageOS** | <img src="previews/oldLineageOS.gif" alt="oldLineageOS" width="160"> | [download](https://github.com/Boffyz/Boot-animations-on-.zip-format-for_magisk-ksu/releases/download/bootanimation/Old.LineageOS.zip) |  |
 | *More coming soon!* |  |  |  |
 </div>
 
